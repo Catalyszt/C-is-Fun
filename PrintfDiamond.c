@@ -2,7 +2,7 @@
 
 
 /*--------------------------------------------------------- 
-   For a given number of rows and columns draw a diamond like bellow.
+   For a given number of rows and columns draw a diamond using printf like bellow.
    Given rows and columns are always equal and odd numers.
    bellow diamond is for 9X9 rows and columns.  
 
