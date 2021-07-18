@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <math.h>
+
+
 /*
     Check if the number is a Armstrong number.
     Armstrong number: let's assumes the number has n digits. Then if the sum of nth 
