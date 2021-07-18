@@ -27,7 +27,7 @@ void main()
     int stars = -1; // increment by 2 for each row until half of the rows and decrement by 2 in other half. 
     int space;
 
-    printf("Ender odd numbers of dims.\n");
+    printf("Enter odd numbers of dims.\n");
     scanf("%d", &dim);
 
     for(i=0; i<dim; i++) // for each rows.
